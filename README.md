@@ -1,4 +1,4 @@
-# Lista de Tarefas
+# Lista 
 
 Projeto de lista de tarefas desenvolvido com HTML, CSS e JavaScript com foco na prática de lógica de programação, manipulação do DOM e responsividade.
 
@@ -12,7 +12,7 @@ A aplicação permite adicionar, editar e remover tarefas dinamicamente, além d
 * Limpar lista
 * Interface responsiva
 
-## Tecnologias utilizadas
+## Linguagens
 
 * HTML5
 * CSS3
